@@ -1,0 +1,38 @@
+body{
+  background-color:grey;
+}
+
+.Hello{
+  text-align:center;
+  margin-top: 5%;
+  margin-left: 35%;
+  width: 400px;
+  height: 270px;
+  background-color: red;
+  border-radius: 20px;
+  font-size: 40px;
+  color: white
+}
+
+.Hello span{
+  display:block;
+  font-size: 70px;
+  line-height: 60px
+}
+
+.Hayden{
+  margin-top: 1%;
+  color: black;
+  background-color: white;
+  height: 140px;
+  vertical-align: middle;
+  line-height: 140px;
+  font-size: 70px
+  
+}
+
+button{
+  background-color: Pink;
+  color: Purple;
+  
+}
